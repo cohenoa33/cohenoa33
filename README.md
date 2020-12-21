@@ -6,7 +6,7 @@ A client-oriented producer at heart, a problem solver, and a creative thinker. P
 
 
 <p>
-  <a href="https://www.linkedin.com/in/noa-rabin-cohen/ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/noa-rabin-cohen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
   <a href="https://medium.com/@cohenoa33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
  </p>
 
