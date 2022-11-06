@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Noa. 
 
-Full-Stack Software Engineer experienced in JavaScript, Ruby on Rails, React and Redux, with a background as a cross-functional project manager and operations professional. 
+Full-Stack Software Engineer experienced in Typescript, JavaScript, Ruby on Rails, React and Redux, with a background as a cross-functional project manager and operations professional. 
 <br/>
 A client-oriented producer at heart, a problem solver, and a creative thinker. Passionate about learning. Continuously looks for ways to learn new languages and frameworks and add value to teams. Recognized by colleagues and supervisors for amazing customer service and organizational skills.
 <p> <a href="https://noarabincohen.com/" target="blank">Explore my website>>> </a>
