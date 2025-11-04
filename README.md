@@ -1,13 +1,25 @@
-### Hi there 👋 I'm Noa. 
+# Noa Rabin Cohen  
 
-Full-Stack Software Engineer experienced in TypeScript, JavaScript, Ruby on Rails, React and Redux, with a background as a cross-functional project manager and operations professional. 
-<br/>
-A client-oriented producer at heart, a problem solver, and a creative thinker. Passionate about learning. Continuously looks for ways to learn new languages and frameworks and add value to teams. Recognized by colleagues and supervisors for amazing customer service and organizational skills.
-<p> <a href="https://noarabincohen.com/" target="blank">Explore my website>>> </a>
+### Full-Stack Software Engineer  
 
-<p>
-  <a href="https://www.linkedin.com/in/noa-rabin-cohen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-  <a href="https://medium.com/@cohenoa33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
- </p>
+Full-Stack Software Engineer skilled in **TypeScript, React, Node.js, PostgreSQL, Ruby on Rails, and Python**, developing **data-driven web and SaaS applications** that turn complex ideas into scalable, user-friendly products.
 
- <br />
+Experienced in **system architecture**, **API development**, and **cross-functional collaboration**, partnering with product teams to build software that’s efficient, maintainable, and intuitive.  
+I care deeply about clarity, performance, and creating technology that feels effortless to use.
+
+*Driven by curiosity and continuous learning, I focus on building tools that enhance productivity and deliver real impact.*
+
+---
+
+### Technical Focus  
+- **Frontend:** React, Next.js, Styled-Components, Tailwind CSS  
+- **Backend:** Node.js, Express, Ruby on Rails, GraphQL, REST APIs  
+- **Databases:** PostgreSQL, Prisma  
+- **Practices:** Full-Stack Development · System Design · API Integration · SaaS Platforms · Product Development  
+
+---
+
+### Connect  
+**Website:** [noarabincohen.com](https://noarabincohen.com)  
+**LinkedIn:** [linkedin.com/in/noa-rabin-cohen](https://www.linkedin.com/in/noa-rabin-cohen/)  
+**GitHub:** [github.com/cohenoa33](https://github.com/cohenoa33)  
